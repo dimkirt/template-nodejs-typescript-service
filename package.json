@@ -1,0 +1,24 @@
+{
+  "name": "template-nodejs-typescript-service",
+  "version": "1.0.0",
+  "description": "Boilerplate to start new Node services in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimkirt/template-nodejs-typescript-service.git"
+  },
+  "keywords": [
+    "template",
+    "node",
+    "typescript"
+  ],
+  "author": "Dimitris Kirtsios <dimkirts@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimkirt/template-nodejs-typescript-service/issues"
+  },
+  "homepage": "https://github.com/dimkirt/template-nodejs-typescript-service#readme"
+}
